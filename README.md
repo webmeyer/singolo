@@ -2,4 +2,4 @@
 
 Готовый макет
 
-[!alt text](/img/SingoloPSD.png)
+![alt text](/img/SingoloPSD.png)
